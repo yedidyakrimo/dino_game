@@ -1,4 +1,4 @@
-# Dino Game
+# Pixel Runner
 
 A fun and optimized dinosaur game built using Python and Pygame. Control the dinosaur, avoid obstacles, and aim for the highest score!
 
