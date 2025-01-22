@@ -33,7 +33,7 @@ We welcome contributions to improve the game! To contribute:
 5. Open a pull request.
 
 
-# Detailed Documentation of Dino Game Functions
+# Detailed Documentation of Functions
 
 This document provides an in-depth explanation of all the functions and loops used in the Dino Game, including their purpose, implementation details, and behavior in various scenarios.
 
@@ -95,7 +95,7 @@ with open(HIGH_SCORES_FILE, "w") as file:
 ## 3. `Dinosaur` Class
 
 ### **Description:**
-Represents the player's character in the game. The dinosaur can jump, descend quickly, and interact with obstacles.
+Represents the player's character in the game. The pixels can jump, descend quickly, and interact with obstacles.
 
 ### **Key Methods:**
 
